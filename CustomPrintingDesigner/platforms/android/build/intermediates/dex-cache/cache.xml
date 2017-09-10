@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/nativescript-apps/CustomPrintingDesigner/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="ada15dd7aad50793dcd67b281a8eb06e80007500">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/nativescript-apps/CustomPrintingDesigner/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-widgets-release_f5627d698e2a820259349207b60e0411cd2e66b7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/nativescript-apps/CustomPrintingDesigner/platforms/android/build/intermediates/exploded-aar/List-2017.1.719-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="da0345f692186503a76740d38b9ae10368e51871">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/nativescript-apps/CustomPrintingDesigner/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-List-2017.1.719-dev-release_22d41f5f456b5e7e0abd0bd221e188cc05b29f92.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/nativescript-apps/CustomPrintingDesigner/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/nativescript-apps/CustomPrintingDesigner/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-compat-26.0.0-alpha1_287635643bbad8dbf5ce2d3e2e89712ab5823e9e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/nativescript-apps/CustomPrintingDesigner/platforms/android/build/intermediates/exploded-aar/CustomPrintingDesigner/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="30b97ea5d6274e02330dcc69943087778363c172">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/nativescript-apps/CustomPrintingDesigner/platforms/android/build/intermediates/pre-dexed/F0F1/debug/CustomPrintingDesigner-runtime-unspecified_7d1eab10f676843a82a1f80ab297d0abdc270f8b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/nativescript-apps/CustomPrintingDesigner/platforms/android/build/intermediates/exploded-aar/CustomPrintingDesigner/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/nativescript-apps/CustomPrintingDesigner/platforms/android/build/intermediates/pre-dexed/F0F1/debug/binding-generator_eb942d8610a82f2bea91120d7b78b08625db0745.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/nativescript-apps/CustomPrintingDesigner/platforms/android/build/intermediates/exploded-aar/Data-2017.1.719-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cc7e8cffc8c4642c00947e515cd3e8cf57e08e4d">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/nativescript-apps/CustomPrintingDesigner/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-Data-2017.1.719-dev-release_828439eab1088656d06d3f0abe76a58cb00b205c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/nativescript-apps/CustomPrintingDesigner/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/nativescript-apps/CustomPrintingDesigner/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-vector-drawable-26.0.0-alpha1_bfe70663449c39b7b49f9ad0906c956d67251ff6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/nativescript-apps/CustomPrintingDesigner/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/nativescript-apps/CustomPrintingDesigner/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-transition-26.0.0-alpha1_62e259fcad2bd3b53d0a2b723ca4ab287affd6bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jasonjames/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/nativescript-apps/CustomPrintingDesigner/platforms/android/build/intermediates/pre-dexed/F0F1/debug/support-annotations-26.0.0-alpha1_b5b5bf0481d3fc075c3c53f8a4609cfa37112bb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/nativescript-apps/CustomPrintingDesigner/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/nativescript-apps/CustomPrintingDesigner/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-media-compat-26.0.0-alpha1_0bb175f3be6528179724eff958577e5c9187d0ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/nativescript-apps/CustomPrintingDesigner/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/nativescript-apps/CustomPrintingDesigner/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-core-ui-26.0.0-alpha1_c883816ac4184ea547b2fc7de141c824cb49dc39.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/nativescript-apps/CustomPrintingDesigner/platforms/android/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/nativescript-apps/CustomPrintingDesigner/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-design-26.0.0-alpha1_00a9de218e8420a2952e98fbdd30a197be4154bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/nativescript-apps/CustomPrintingDesigner/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/nativescript-apps/CustomPrintingDesigner/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-fragment-26.0.0-alpha1_f18458f19611e5efe8768cb7ec51e3ad9615b63e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/nativescript-apps/CustomPrintingDesigner/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/nativescript-apps/CustomPrintingDesigner/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-animated-vector-drawable-26.0.0-alpha1_bea1a34529ceba3792ab936c3119999c3a7167c9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/nativescript-apps/CustomPrintingDesigner/platforms/android/build/intermediates/exploded-aar/Common-2017.1.719-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="1daf6bd902b7f984c75a355d77be15d6a50ef1c9">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/nativescript-apps/CustomPrintingDesigner/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-Common-2017.1.719-dev-release_529629ff3b6872e0b345ea31dccd4e4b47deb78f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/nativescript-apps/CustomPrintingDesigner/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/nativescript-apps/CustomPrintingDesigner/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-recyclerview-v7-26.0.0-alpha1_48e7183f1fe5d59e616bb0feb405574ae1c174b0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/nativescript-apps/CustomPrintingDesigner/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/nativescript-apps/CustomPrintingDesigner/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-v4-26.0.0-alpha1_82a9e755a8be0ae289b047e5e52563cf7de751b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/nativescript-apps/CustomPrintingDesigner/platforms/android/build/intermediates/exploded-aar/Primitives-2017.1.719-dev-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d137bb527f71e9591253f379cf1c0995f1575c62">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/nativescript-apps/CustomPrintingDesigner/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-Primitives-2017.1.719-dev-release_723fdeddfe1136605f900e72e6b086fd63cfa7c0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/nativescript-apps/CustomPrintingDesigner/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/nativescript-apps/CustomPrintingDesigner/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-core-utils-26.0.0-alpha1_79db4c1ce694a619660059546f570f10038b110b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/nativescript-apps/CustomPrintingDesigner/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/nativescript-apps/CustomPrintingDesigner/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-appcompat-v7-26.0.0-alpha1_4d471ec656badbeadeaf022dd64fe780e0b6ceda.jar" />
+    </item>
+
+</items>

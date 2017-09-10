@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/nativescript-apps/CustomPrintingDesigner/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-mdpi/logo.png",
+        "source": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/nativescript-apps/CustomPrintingDesigner/platforms/android/src/main/res/drawable-mdpi/logo.png"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/nativescript-apps/CustomPrintingDesigner/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-mdpi/background.png",
+        "source": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/nativescript-apps/CustomPrintingDesigner/platforms/android/src/main/res/drawable-mdpi/background.png"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/nativescript-apps/CustomPrintingDesigner/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-mdpi/icon.png",
+        "source": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/nativescript-apps/CustomPrintingDesigner/platforms/android/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/nativescript-apps/CustomPrintingDesigner/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-mdpi/menu.png",
+        "source": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/nativescript-apps/CustomPrintingDesigner/platforms/android/src/main/res/drawable-mdpi/menu.png"
+    }
+]
