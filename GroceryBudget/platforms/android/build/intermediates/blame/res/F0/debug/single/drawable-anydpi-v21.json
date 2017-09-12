@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/GroceryBudget/platforms/android/build/intermediates/res/merged/F0/debug/drawable-anydpi-v21/design_ic_visibility_off.xml",
+        "source": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/GroceryBudget/platforms/android/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/drawable-anydpi-v21/design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/GroceryBudget/platforms/android/build/intermediates/res/merged/F0/debug/drawable-anydpi-v21/design_ic_visibility.xml",
+        "source": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/GroceryBudget/platforms/android/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/res/drawable-anydpi-v21/design_ic_visibility.xml"
+    }
+]
