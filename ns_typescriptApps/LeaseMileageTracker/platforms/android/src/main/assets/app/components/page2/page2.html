@@ -1,0 +1,22 @@
+<ActionBar title="Settings">
+    <ActionItem text="Back" (tap)="navHome()" pageTransition="flip"></ActionItem>
+</ActionBar>
+<ScrollView>
+    <StackLayout>
+            <Label textWrap="true" text="Purchase Date" class="h2 description-label" style="margin: 10;" ></Label>
+            <GridLayout columns="60, auto, *" rows="60, auto, *" width="230" height="230" backgroundColor="white">
+                    <DatePicker year="{{ currentYear }}" month="{{ currentMonth }}" day="{{ currentDay }}" minDate="1970-01-01" maxDate="2100-12-31"
+                     row="0" col="0" rowSpan="3" colSpan="3" backgroundColor="lightblue" style="border-radius:10;"></DatePicker>
+            </GridLayout>
+            <Label textWrap="true" text="Select Lease Term" class="h2 description-label" style="margin: 10;" ></Label> 
+            <Button id="btn_2yr" text="2 Year" tap="{{ TwoYr_ButtonTap }}" style="border-radius:50; margin: 2;"></Button>            
+            <Button id="btn_3yr" text="3 Year" tap="{{ ThreeYr_ButtonTap }}" backgroundColor="lightblue" style="border-radius:50; margin: 2;"></Button>
+            <Button id="btn_4yr" text="4 Year" tap="{{ FourYr_ButtonTap }}" backgroundColor="lightblue" style="border-radius:50; margin: 2;"></Button>
+            <Button id="btn_5yr" text="5 Year" tap="{{ FiveYr_ButtonTap }}" backgroundColor="lightblue" style="border-radius:50; margin: 2;"></Button>
+            <Label textWrap="true" text="Select Lease Mileage" class="h2 description-label" style="margin: 10;" ></Label>
+            <Button (tap)="isClassVisible = !isClassVisible;" id="btn_10000mi" text="10,000 Miles / Yr" tap="{{ Miles10000_ButtonTap }}" style="border-radius:50; margin: 2;" [ngClass]="{'my-class': isClassVisible }"></Button>
+            <Button class="mybtn" id="btn_12000mi" text="12,000 Miles / Yr" tap="{{ Miles12000_ButtonTap }}" backgroundColor="lightblue" style="border-radius:50; margin: 2;"></Button>
+            <Button id="btn_15000mi" text="15,000 Miles / Yr" tap="{{ Miles15000_ButtonTap }}" backgroundColor="lightblue" style="border-radius:50; margin: 2 2 10 2;"></Button>
+
+        </StackLayout>
+</ScrollView>

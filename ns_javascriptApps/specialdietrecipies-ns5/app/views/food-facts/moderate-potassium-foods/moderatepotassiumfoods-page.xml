@@ -1,0 +1,21 @@
+<Page loaded="pageLoaded" class="page" xmlns="http://www.nativescript.org/tns.xsd">
+	<ActionBar title="Moderate Potassium Foods" class="action-bar">
+	</ActionBar>
+
+	<ScrollView>
+		<StackLayout class="home-panel">
+			<!--Add your page content here-->
+			<GridLayout columns="auto, *, auto" rows="auto, 25" style.verticalAlignment="top" style.backgroundColor="lightgray" style.margin-top="10">
+				<Image src="https://s3-us-west-2.amazonaws.com/nativescript-apps/SpecialDietRecipies/foodIcons/HighPotassiumFoods/apricot.png"
+				 rowSpan="2" width="72" height="72" margin="3" style.verticalAlignment="top" />
+				<Label text="Apricots" textWrap="true" col="1" colSpan="2" minHeight="50" style.fontSize="20" margin="3" />
+				<Label text="Approx. 91 mg Potassium per Apricot" col="1" row="1" style.fontSize="14" style.horizontalAlignment="left" style.verticalAlignment="bottom"
+				 margin="3" />
+				<Label text="RISK FACTOR: " col="2" row="1" style.color="#000000" style.fontSize="14" style.verticalAlignment="bottom" margin="3"
+				/>
+				<Label text="MODERATE" col="3" row="1" style.color="#FFBF00" style.padding-left="100" style.padding-right="10" style.fontSize="14"
+				 style.verticalAlignment="bottom" margin="3" />
+			</GridLayout>
+		</StackLayout>
+	</ScrollView>
+</Page>

@@ -1,0 +1,4 @@
+#Tue Jan 16 20:41:05 PST 2018
+base.0=/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/LeaseMileageTracker/platforms/android/build/intermediates/transforms/dex/F0/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/LeaseMileageTracker/platforms/android/build/intermediates/transforms/dex/F0/debug/folders/1000/1f/main/classes.dex

@@ -1,0 +1,35 @@
+<Page loaded="pageLoaded" class="page" xmlns="http://www.nativescript.org/tns.xsd">
+
+	<ActionBar title="Special Diet Recipes" class="action-bar">
+	</ActionBar>
+	<ScrollView>
+		<StackLayout class="home-panel">
+			<!--Add your page content here-->
+			<Label textWrap="true" text="Welcome to
+Special Diet Recipies" class="h2 description-label" />
+			<Image src="https://s3-us-west-2.amazonaws.com/graphic-design-portfolio/image_SpecialDietRecipes.png" />
+			<DockLayout width="100%" height="50" style.backgroundColor="lightgray" stretchLastChild="true" style="color:white; text-align: center;">
+				<Label textWrap="true" text="HOME" dock="left" backgroundColor="red" style="padding: 10%;" />
+				<Label textWrap="true" text="RECIPIES" dock="left" backgroundColor="green" style="padding: 10%;" />
+				<Label textWrap="true" text="BMI CALCULATOR" dock="left" backgroundColor="blue" style="padding: 10%;" />
+				<Label textWrap="true" text="FOOD FACTS" backgroundColor="orange" style="padding: 10%;" />
+			</DockLayout>
+			<Label textWrap="true" text="Special Diet Recipes is designed for people with diabetes, kidney and heart problems. To help you find recipes that are made
+			specifically for your special diet restrictions. Recipes originate from the American Diabetes Association, Davita Dialysis,
+			and the American Heart Association. And they are truly mouth watering! Tons of recipe categories; including Appetizers,
+			Breakfast, Brunch, Lunch, Dinner, Snacks, Desserts, Budget Meals, Soups, Sandwiches, and much more... Application Features:
+			- Complete recipe easy to follow directions, ingredients, and reviews - Full Sharing of recipes to twitter, facebook,
+			pintrest, and more - Search recipes by meal type, ingredients, or food title - Cooking videos and pictures - and More...
+			Here's your chance to impress your friends and family members with your ability to cook excellent mouth watering meals
+			that fit their strict diet restrictions! Help make planning your next diet restricted meal easier than you could have
+			even imagined possible with Special Diet Recipes!"
+			 class="h2 description-label" />
+			<Label textWrap="true" text="&copy; 2017 Special Diet Recipies
+			
+			JPPM Solutions - All Rights Reserved"
+			 class="h2 footer-label" />		
+			 
+		</StackLayout>	
+	</ScrollView>
+
+</Page>

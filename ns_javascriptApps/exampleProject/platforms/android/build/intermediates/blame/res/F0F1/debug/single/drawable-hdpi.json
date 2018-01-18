@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/exampleProject/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-hdpi/logo.png",
+        "source": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/exampleProject/platforms/android/src/main/res/drawable-hdpi/logo.png"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/exampleProject/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-hdpi/icon.png",
+        "source": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/exampleProject/platforms/android/src/main/res/drawable-hdpi/icon.png"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/exampleProject/platforms/android/build/intermediates/res/merged/F0F1/debug/drawable-hdpi/background.png",
+        "source": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/exampleProject/platforms/android/src/main/res/drawable-hdpi/background.png"
+    }
+]

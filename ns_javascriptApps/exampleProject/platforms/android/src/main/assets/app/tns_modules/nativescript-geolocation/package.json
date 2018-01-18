@@ -1,0 +1,139 @@
+{
+  "_args": [
+    [
+      "nativescript-geolocation",
+      "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/exampleProject"
+    ]
+  ],
+  "_from": "nativescript-geolocation@latest",
+  "_id": "nativescript-geolocation@4.2.2",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/nativescript-geolocation",
+  "_nodeVersion": "8.9.1",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/nativescript-geolocation-4.2.2.tgz_1513343209549_0.44578682351857424"
+  },
+  "_npmUser": {
+    "email": "bit@gbg.bg",
+    "name": "lini"
+  },
+  "_npmVersion": "5.6.0",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "nativescript-geolocation",
+    "raw": "nativescript-geolocation",
+    "rawSpec": "",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/nativescript-geolocation/-/nativescript-geolocation-4.2.2.tgz",
+  "_shasum": "930edaec8903546028bc84f7e8f0281b91c65281",
+  "_shrinkwrap": null,
+  "_spec": "nativescript-geolocation",
+  "_where": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/exampleProject",
+  "author": {
+    "name": "NativeScript Team"
+  },
+  "bootstrapper": "nativescript-plugin-seed",
+  "bugs": {
+    "url": "https://github.com/NativeScript/nativescript-geolocation/issues"
+  },
+  "dependencies": {
+    "nativescript-permissions": "~1.2.3"
+  },
+  "description": "Provides API for getting and monitoring location for NativeScript app.",
+  "devDependencies": {
+    "prompt": "^1.0.0",
+    "rimraf": "^2.5.0",
+    "tns-core-modules": "^3.0.0",
+    "tns-platform-declarations": "^3.0.0",
+    "tslint": "~5.4.3",
+    "typescript": "2.3.4"
+  },
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-mcYpRMG1vHB2fNguvQCYwR20iC+RVjVHQeEjMwyk6+J2TvMJaThc78Kk4C7N7Rwyye+FpGhDFZ1NobvaEeX5eA==",
+    "shasum": "930edaec8903546028bc84f7e8f0281b91c65281",
+    "tarball": "https://registry.npmjs.org/nativescript-geolocation/-/nativescript-geolocation-4.2.2.tgz"
+  },
+  "homepage": "https://github.com/NativeScript/nativescript-geolocation",
+  "keywords": [
+    "NativeScript",
+    "JavaScript",
+    "Android",
+    "iOS"
+  ],
+  "license": "Apache-2.0",
+  "main": "geolocation",
+  "maintainers": [
+    {
+      "email": "nativescript@telerik.com",
+      "name": "tns-bot"
+    },
+    {
+      "email": "hristo@deshev.com",
+      "name": "hdeshev"
+    },
+    {
+      "email": "dimitar.todorov@progress.com",
+      "name": "dtodorov"
+    },
+    {
+      "email": "bit@gbg.bg",
+      "name": "lini"
+    },
+    {
+      "email": "t_bozhikov@yahoo.com",
+      "name": "tbozhikov"
+    },
+    {
+      "email": "nevermindd7@gmail.com",
+      "name": "tachev"
+    },
+    {
+      "email": "toddanglin@gmail.com",
+      "name": "toddanglin"
+    },
+    {
+      "email": "veselina.radeva@progress.com",
+      "name": "veselina.radeva"
+    },
+    {
+      "email": "branzov.z@gmail.com",
+      "name": "zbranzov"
+    }
+  ],
+  "name": "nativescript-geolocation",
+  "nativescript": {
+    "platforms": {
+      "android": "3.0.0",
+      "ios": "3.0.0"
+    }
+  },
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NativeScript/nativescript-geolocation.git"
+  },
+  "scripts": {
+    "build": "npm i && tsc",
+    "ci.tslint": "npm i && tslint '**/*.ts' --config '../tslint.json' --exclude '**/node_modules/**'",
+    "demo.android": "npm i && npm run tsc && cd ../demo && tns run android --syncAllFiles",
+    "demo.ios": "npm i && npm run tsc && cd ../demo && tns run ios --syncAllFiles",
+    "plugin.link": "npm link && cd ../demo && npm link nativescript-geolocation && cd ../src",
+    "plugin.tscwatch": "npm run tsc -- -w",
+    "postclone": "npm i && node scripts/postclone.js && cd ../demo && npm i && cd ../src && npm run plugin.link",
+    "test.android": "npm i && npm run tsc && npm run tslint && cd ../demo && tns build android && tns test android --justlaunch",
+    "test.ios": "npm i && npm run tsc && npm run tslint && cd ../demo && tns build ios && tns test ios --justlaunch",
+    "tsc": "tsc -skipLibCheck",
+    "tslint": "cd .. && tslint \"**/*.ts\" --config tslint.json --exclude \"**/node_modules/**\""
+  },
+  "version": "4.2.2"
+}

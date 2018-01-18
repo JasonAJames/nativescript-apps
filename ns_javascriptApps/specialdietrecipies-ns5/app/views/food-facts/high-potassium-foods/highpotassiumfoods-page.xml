@@ -1,0 +1,214 @@
+<Page loaded="pageLoaded" class="page" xmlns="http://www.nativescript.org/tns.xsd">
+	<ActionBar title="High Potassium Foods" class="action-bar">
+	</ActionBar>
+
+	<ScrollView>
+		<StackLayout class="home-panel">
+			<!--Add your page content here-->
+			<GridLayout columns="auto, *, auto" rows="auto, 25" style.verticalAlignment="top" style.backgroundColor="lightgray" style.margin-top="0">
+				<Image src="https://s3-us-west-2.amazonaws.com/nativescript-apps/SpecialDietRecipies/foodIcons/HighPotassiumFoods/Spinach.png"
+				 rowSpan="2" width="72" height="72" margin="3" style.verticalAlignment="top" />
+				<Label text="Spinach" textWrap="true" col="1" colSpan="2" minHeight="50" style.fontSize="20" margin="3" />
+				<Label text="Approx. 1,585 mg Potassium per 284g of Spinach" col="1" row="1" style.fontSize="14" style.horizontalAlignment="left"
+				 style.verticalAlignment="bottom" margin="3" />
+				<Label text="RISK FACTOR: " col="2" row="1" style.color="#000000" style.fontSize="14" style.verticalAlignment="bottom" margin="3"
+				/>
+				<Label text="HIGH" col="3" row="1" style.color="#FF0000" style.padding-left="100" style.padding-right="10" style.fontSize="14"
+				 style.verticalAlignment="bottom" margin="3" />
+			</GridLayout>
+
+			<GridLayout columns="auto, *, auto" rows="auto, 25" style.verticalAlignment="top" style.backgroundColor="lightgray" style.margin-top="10">
+				<Image src="https://s3-us-west-2.amazonaws.com/nativescript-apps/SpecialDietRecipies/foodIcons/HighPotassiumFoods/Dried-Fruit.png"
+				 rowSpan="2" width="72" height="72" margin="3" style.verticalAlignment="top" />
+				<Label text="Dried Fruit" textWrap="true" col="1" colSpan="2" minHeight="50" style.fontSize="20" margin="3" />
+				<Label text="Approx. 1,511 mg Potassium per cup of Dried Fruit" col="1" row="1" style.fontSize="14" style.horizontalAlignment="left"
+				 style.verticalAlignment="bottom" margin="3" />
+				<Label text="RISK FACTOR: " col="2" row="1" style.color="#000000" style.fontSize="14" style.verticalAlignment="bottom" margin="3"
+				/>
+				<Label text="HIGH" col="3" row="1" style.color="#FF0000" style.padding-left="100" style.padding-right="10" style.fontSize="14"
+				 style.verticalAlignment="bottom" margin="3" />
+			</GridLayout>
+
+			<GridLayout columns="auto, *, auto" rows="auto, 25" style.verticalAlignment="top" style.backgroundColor="lightgray" style.margin-top="10">
+				<Image src="https://s3-us-west-2.amazonaws.com/nativescript-apps/SpecialDietRecipies/foodIcons/HighPotassiumFoods/potato.png"
+				 rowSpan="2" width="72" height="72" margin="3" style.verticalAlignment="top" />
+				<Label text="Potatoes" textWrap="true" col="1" colSpan="2" minHeight="50" style.fontSize="20" margin="3" />
+				<Label text="Approx. 925 mg Potassium per Potato" col="1" row="1" style.fontSize="14" style.horizontalAlignment="left" style.verticalAlignment="bottom"
+				 margin="3" />
+				<Label text="RISK FACTOR: " col="2" row="1" style.color="#000000" style.fontSize="14" style.verticalAlignment="bottom" margin="3"
+				/>
+				<Label text="HIGH" col="3" row="1" style.color="#FF0000" style.padding-left="100" style.padding-right="10" style.fontSize="14"
+				 style.verticalAlignment="bottom" margin="3" />
+			</GridLayout>
+
+			<GridLayout columns="auto, *, auto" rows="auto, 25" style.verticalAlignment="top" style.backgroundColor="lightgray" style.margin-top="10">
+				<Image src="https://s3-us-west-2.amazonaws.com/nativescript-apps/SpecialDietRecipies/foodIcons/HighPotassiumFoods/beans.png"
+				 rowSpan="2" width="72" height="72" margin="3" style.verticalAlignment="top" />
+				<Label text="Beans" textWrap="true" col="1" colSpan="2" minHeight="50" style.fontSize="20" margin="3" />
+				<Label text="Approx. 739-1189 mg Potassium per cup of Beans" col="1" row="1" style.fontSize="14" style.horizontalAlignment="left"
+				 style.verticalAlignment="bottom" margin="3" />
+				<Label text="RISK FACTOR: " col="2" row="1" style.color="#000000" style.fontSize="14" style.verticalAlignment="bottom" margin="3"
+				/>
+				<Label text="HIGH" col="3" row="1" style.color="#FF0000" style.padding-left="100" style.padding-right="10" style.fontSize="14"
+				 style.verticalAlignment="bottom" margin="3" />
+			</GridLayout>
+
+			<GridLayout columns="auto, *, auto" rows="auto, 25" style.verticalAlignment="top" style.backgroundColor="lightgray" style.margin-top="10">
+				<Image src="https://s3-us-west-2.amazonaws.com/nativescript-apps/SpecialDietRecipies/foodIcons/HighPotassiumFoods/nuts.png"
+				 rowSpan="2" width="72" height="72" margin="3" style.verticalAlignment="top" />
+				<Label text="Nuts" textWrap="true" col="1" colSpan="2" minHeight="50" style.fontSize="20" margin="3" />
+				<Label text="Approx. 847 mg Potassium per cup of Nuts" col="1" row="1" style.fontSize="14" style.horizontalAlignment="left"
+				 style.verticalAlignment="bottom" margin="3" />
+				<Label text="RISK FACTOR: " col="2" row="1" style.color="#000000" style.fontSize="14" style.verticalAlignment="bottom" margin="3"
+				/>
+				<Label text="HIGH" col="3" row="1" style.color="#FF0000" style.padding-left="100" style.padding-right="10" style.fontSize="14"
+				 style.verticalAlignment="bottom" margin="3" />
+			</GridLayout>
+
+			<GridLayout columns="auto, *, auto" rows="auto, 25" style.verticalAlignment="top" style.backgroundColor="lightgray" style.margin-top="10">
+				<Image src="https://s3-us-west-2.amazonaws.com/nativescript-apps/SpecialDietRecipies/foodIcons/HighPotassiumFoods/prunes.png"
+				 rowSpan="2" width="72" height="72" margin="3" style.verticalAlignment="top" />
+				<Label text="Prunes" textWrap="true" col="1" colSpan="2" minHeight="50" style.fontSize="20" margin="3" />
+				<Label text="Approx. 637 mg Potassium per Prune" col="1" row="1" style.fontSize="14" style.horizontalAlignment="left" style.verticalAlignment="bottom"
+				 margin="3" />
+				<Label text="RISK FACTOR: " col="2" row="1" style.color="#000000" style.fontSize="14" style.verticalAlignment="bottom" margin="3"
+				/>
+				<Label text="HIGH" col="3" row="1" style.color="#FF0000" style.padding-left="100" style.padding-right="10" style.fontSize="14"
+				 style.verticalAlignment="bottom" margin="3" />
+			</GridLayout>
+
+			<GridLayout columns="auto, *, auto" rows="auto, 25" style.verticalAlignment="top" style.backgroundColor="lightgray" style.margin-top="10">
+				<Image src="https://s3-us-west-2.amazonaws.com/nativescript-apps/SpecialDietRecipies/foodIcons/HighPotassiumFoods/salt-substitute.png"
+				 rowSpan="2" width="72" height="72" margin="3" style.verticalAlignment="top" />
+				<Label text="Salt Substitutes" textWrap="true" col="1" colSpan="2" minHeight="50" style.fontSize="20" margin="3" />
+				<Label text="Approx. 530 mg Potassium per 1g of Salt Substitute" col="1" row="1" style.fontSize="14" style.horizontalAlignment="left"
+				 style.verticalAlignment="bottom" margin="3" />
+				<Label text="RISK FACTOR: " col="2" row="1" style.color="#000000" style.fontSize="14" style.verticalAlignment="bottom" margin="3"
+				/>
+				<Label text="HIGH" col="3" row="1" style.color="#FF0000" style.padding-left="100" style.padding-right="10" style.fontSize="14"
+				 style.verticalAlignment="bottom" margin="3" />
+			</GridLayout>
+
+			<GridLayout columns="auto, *, auto" rows="auto, 25" style.verticalAlignment="top" style.backgroundColor="lightgray" style.margin-top="10">
+				<Image src="https://s3-us-west-2.amazonaws.com/nativescript-apps/SpecialDietRecipies/foodIcons/HighPotassiumFoods/tomato.png"
+				 rowSpan="2" width="72" height="72" margin="3" style.verticalAlignment="top" />
+				<Label text="Tomatoes" textWrap="true" col="1" colSpan="2" minHeight="50" style.fontSize="20" margin="3" />
+				<Label text="Approx. 431 mg Potassium per Tomato" col="1" row="1" style.fontSize="14" style.horizontalAlignment="left" style.verticalAlignment="bottom"
+				 margin="3" />
+				<Label text="RISK FACTOR: " col="2" row="1" style.color="#000000" style.fontSize="14" style.verticalAlignment="bottom" margin="3"
+				/>
+				<Label text="HIGH" col="3" row="1" style.color="#FF0000" style.padding-left="100" style.padding-right="10" style.fontSize="14"
+				 style.verticalAlignment="bottom" margin="3" />
+			</GridLayout>
+
+			<GridLayout columns="auto, *, auto" rows="auto, 25" style.verticalAlignment="top" style.backgroundColor="lightgray" style.margin-top="10">
+				<Image src="https://s3-us-west-2.amazonaws.com/nativescript-apps/SpecialDietRecipies/foodIcons/HighPotassiumFoods/Banana.png"
+				 rowSpan="2" width="72" height="72" margin="3" style.verticalAlignment="top" />
+				<Label text="Bananas" textWrap="true" col="1" colSpan="2" minHeight="50" style.fontSize="20" margin="3" />
+				<Label text="Approx. 422 mg Potassium per Banana" col="1" row="1" style.fontSize="14" style.horizontalAlignment="left" style.verticalAlignment="bottom"
+				 margin="3" />
+				<Label text="RISK FACTOR: " col="2" row="1" style.color="#000000" style.fontSize="14" style.verticalAlignment="bottom" margin="3"
+				/>
+				<Label text="HIGH" col="3" row="1" style.color="#FF0000" style.padding-left="100" style.padding-right="10" style.fontSize="14"
+				 style.verticalAlignment="bottom" margin="3" />
+			</GridLayout>
+
+			<GridLayout columns="auto, *, auto" rows="auto, 25" style.verticalAlignment="top" style.backgroundColor="lightgray" style.margin-top="10">
+				<Image src="https://s3-us-west-2.amazonaws.com/nativescript-apps/SpecialDietRecipies/foodIcons/HighPotassiumFoods/cantaloupe.png"
+				 rowSpan="2" width="72" height="72" margin="3" style.verticalAlignment="top" />
+				<Label text="Cantaloupe" textWrap="true" col="1" colSpan="2" minHeight="50" style.fontSize="20" margin="3" />
+				<Label text="Approx. 400 mg Potassium per Cantaloupe" col="1" row="1" style.fontSize="14" style.horizontalAlignment="left"
+				 style.verticalAlignment="bottom" margin="3" />
+				<Label text="RISK FACTOR: " col="2" row="1" style.color="#000000" style.fontSize="14" style.verticalAlignment="bottom" margin="3"
+				/>
+				<Label text="HIGH" col="3" row="1" style.color="#FF0000" style.padding-left="100" style.padding-right="10" style.fontSize="14"
+				 style.verticalAlignment="bottom" margin="3" />
+			</GridLayout>
+
+			<GridLayout columns="auto, *, auto" rows="auto, 25" style.verticalAlignment="top" style.backgroundColor="lightgray" style.margin-top="10">
+				<Image src="https://s3-us-west-2.amazonaws.com/nativescript-apps/SpecialDietRecipies/foodIcons/HighPotassiumFoods/honeyDew.png"
+				 rowSpan="2" width="72" height="72" margin="3" style.verticalAlignment="top" />
+				<Label text="Honey Dew" textWrap="true" col="1" colSpan="2" minHeight="50" style.fontSize="20" margin="3" />
+				<Label text="Approx. 400 mg Potassium per Honey Dew" col="1" row="1" style.fontSize="14" style.horizontalAlignment="left"
+				 style.verticalAlignment="bottom" margin="3" />
+				<Label text="RISK FACTOR: " col="2" row="1" style.color="#000000" style.fontSize="14" style.verticalAlignment="bottom" margin="3"
+				/>
+				<Label text="HIGH" col="3" row="1" style.color="#FF0000" style.padding-left="100" style.padding-right="10" style.fontSize="14"
+				 style.verticalAlignment="bottom" margin="3" />
+			</GridLayout>
+
+			<GridLayout columns="auto, *, auto" rows="auto, 25" style.verticalAlignment="top" style.backgroundColor="lightgray" style.margin-top="10">
+				<Image src="https://s3-us-west-2.amazonaws.com/nativescript-apps/SpecialDietRecipies/foodIcons/HighPotassiumFoods/cactus.png"
+				 rowSpan="2" width="72" height="72" margin="3" style.verticalAlignment="top" />
+				<Label text="Nopales" textWrap="true" col="1" colSpan="2" minHeight="50" style.fontSize="20" margin="3" />
+				<Label text="Approx. 291 mg Potassium per 149g of Nopales" col="1" row="1" style.fontSize="14" style.horizontalAlignment="left"
+				 style.verticalAlignment="bottom" margin="3" />
+				<Label text="RISK FACTOR: " col="2" row="1" style.color="#000000" style.fontSize="14" style.verticalAlignment="bottom" margin="3"
+				/>
+				<Label text="HIGH" col="3" row="1" style.color="#FF0000" style.padding-left="100" style.padding-right="10" style.fontSize="14"
+				 style.verticalAlignment="bottom" margin="3" />
+			</GridLayout>
+
+			<GridLayout columns="auto, *, auto" rows="auto, 25" style.verticalAlignment="top" style.backgroundColor="lightgray" style.margin-top="10">
+				<Image src="https://s3-us-west-2.amazonaws.com/nativescript-apps/SpecialDietRecipies/foodIcons/HighPotassiumFoods/winterSquash.png"
+				 rowSpan="2" width="72" height="72" margin="3" style.verticalAlignment="top" />
+				<Label text="Winter Squash" textWrap="true" col="1" colSpan="2" minHeight="50" style.fontSize="20" margin="3" />
+				<Label text="Approx. 250-445 mg Potassium per Winter Squash" col="1" row="1" style.fontSize="14" style.horizontalAlignment="left"
+				 style.verticalAlignment="bottom" margin="3" />
+				<Label text="RISK FACTOR: " col="2" row="1" style.color="#000000" style.fontSize="14" style.verticalAlignment="bottom" margin="3"
+				/>
+				<Label text="HIGH" col="3" row="1" style.color="#FF0000" style.padding-left="100" style.padding-right="10" style.fontSize="14"
+				 style.verticalAlignment="bottom" margin="3" />
+			</GridLayout>
+
+			<GridLayout columns="auto, *, auto" rows="auto, 25" style.verticalAlignment="top" style.backgroundColor="lightgray" style.margin-top="10">
+				<Image src="https://s3-us-west-2.amazonaws.com/nativescript-apps/SpecialDietRecipies/foodIcons/HighPotassiumFoods/avocados.png"
+				 rowSpan="2" width="72" height="72" margin="3" style.verticalAlignment="top" />
+				<Label text="Avocados" textWrap="true" col="1" colSpan="2" minHeight="50" style.fontSize="20" margin="3" />
+				<Label text="Approx. 250 mg Potassium per Avocado" col="1" row="1" style.fontSize="14" style.horizontalAlignment="left" style.verticalAlignment="bottom"
+				 margin="3" />
+				<Label text="RISK FACTOR: " col="2" row="1" style.color="#000000" style.fontSize="14" style.verticalAlignment="bottom" margin="3"
+				/>
+				<Label text="HIGH" col="3" row="1" style.color="#FF0000" style.padding-left="100" style.padding-right="10" style.fontSize="14"
+				 style.verticalAlignment="bottom" margin="3" />
+			</GridLayout>
+
+			<GridLayout columns="auto, *, auto" rows="auto, 25" style.verticalAlignment="top" style.backgroundColor="lightgray" style.margin-top="10">
+				<Image src="https://s3-us-west-2.amazonaws.com/nativescript-apps/SpecialDietRecipies/foodIcons/HighPotassiumFoods/Pumpkin.png"
+				 rowSpan="2" width="72" height="72" margin="3" style.verticalAlignment="top" />
+				<Label text="Pumpkin" textWrap="true" col="1" colSpan="2" minHeight="50" style.fontSize="20" margin="3" />
+				<Label text="Approx. 250 mg Potassium per &frac12; cup of Pumpkin" col="1" row="1" style.fontSize="14" style.horizontalAlignment="left"
+				 style.verticalAlignment="bottom" margin="3" />
+				<Label text="RISK FACTOR: " col="2" row="1" style.color="#000000" style.fontSize="14" style.verticalAlignment="bottom" margin="3"
+				/>
+				<Label text="HIGH" col="3" row="1" style.color="#FF0000" style.padding-left="100" style.padding-right="10" style.fontSize="14"
+				 style.verticalAlignment="bottom" margin="3" />
+			</GridLayout>
+
+			<GridLayout columns="auto, *, auto" rows="auto, 25" style.verticalAlignment="top" style.backgroundColor="lightgray" style.margin-top="10">
+				<Image src="https://s3-us-west-2.amazonaws.com/nativescript-apps/SpecialDietRecipies/foodIcons/HighPotassiumFoods/orange.png"
+				 rowSpan="2" width="72" height="72" margin="3" style.verticalAlignment="top" />
+				<Label text="Oranges" textWrap="true" col="1" colSpan="2" minHeight="50" style.fontSize="20" margin="3" />
+				<Label text="Approx. 237 mg Potassium per Orange" col="1" row="1" style.fontSize="14" style.horizontalAlignment="left" style.verticalAlignment="bottom"
+				 margin="3" />
+				<Label text="RISK FACTOR: " col="2" row="1" style.color="#000000" style.fontSize="14" style.verticalAlignment="bottom" margin="3"
+				/>
+				<Label text="HIGH" col="3" row="1" style.color="#FF0000" style.padding-left="100" style.padding-right="10" style.fontSize="14"
+				 style.verticalAlignment="bottom" margin="3" />
+			</GridLayout>
+
+			<GridLayout columns="auto, *, auto" rows="auto, 25" style.verticalAlignment="top" style.backgroundColor="lightgray" style.margin-top="10">
+				<Image src="https://s3-us-west-2.amazonaws.com/nativescript-apps/SpecialDietRecipies/foodIcons/HighPotassiumFoods/Chocolate.png"
+				 rowSpan="2" width="72" height="72" margin="3" style.verticalAlignment="top" />
+				<Label text="Chocolate" textWrap="true" col="1" colSpan="2" minHeight="50" style.fontSize="20" margin="3" />
+				<Label text="Approx. 200 mg Potassium per 1.5-2oz. of Chocolate" col="1" row="1" style.fontSize="14" style.horizontalAlignment="left"
+				 style.verticalAlignment="bottom" margin="3" />
+				<Label text="RISK FACTOR: " col="2" row="1" style.color="#000000" style.fontSize="14" style.verticalAlignment="bottom" margin="3"
+				/>
+				<Label text="HIGH" col="3" row="1" style.color="#FF0000" style.padding-left="100" style.padding-right="10" style.fontSize="14"
+				 style.verticalAlignment="bottom" margin="3" />
+			</GridLayout>
+
+		</StackLayout>
+	</ScrollView>
+</Page>

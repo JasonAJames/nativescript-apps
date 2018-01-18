@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/LeaseMileageTracker/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxhdpi/logo.png",
+        "source": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/LeaseMileageTracker/platforms/android/src/main/res/drawable-xxhdpi/logo.png"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/LeaseMileageTracker/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxhdpi/icon.png",
+        "source": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/LeaseMileageTracker/platforms/android/src/main/res/drawable-xxhdpi/icon.png"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/LeaseMileageTracker/platforms/android/build/intermediates/res/merged/F0/debug/drawable-xxhdpi/background.png",
+        "source": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/LeaseMileageTracker/platforms/android/src/main/res/drawable-xxhdpi/background.png"
+    }
+]

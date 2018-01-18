@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/LeaseMileageTracker/platforms/android/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/LeaseMileageTracker/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-design-26.0.0-alpha1_269a28fcf7d420a2365c07c8d88ef311cad24a74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/LeaseMileageTracker/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/LeaseMileageTracker/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-appcompat-v7-26.0.0-alpha1_760461b1468b376b594354fb623f229bfc3fbd95.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/LeaseMileageTracker/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/LeaseMileageTracker/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-media-compat-26.0.0-alpha1_f22f4c0fe098d433542ae79f04828135873acc17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/LeaseMileageTracker/platforms/android/build/intermediates/exploded-aar/LeaseMileageTracker/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/LeaseMileageTracker/platforms/android/build/intermediates/pre-dexed/F0/debug/binding-generator_fa32355de9cac06fdcfe4d1d00ef5feda338091b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/LeaseMileageTracker/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/LeaseMileageTracker/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-v4-26.0.0-alpha1_3d4c256ae3184aeec940ef8effd6b55d68637fc7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/LeaseMileageTracker/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/LeaseMileageTracker/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-compat-26.0.0-alpha1_050a13044e54e05cafd7bbcf70c476bd4f93ef75.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jasonjames/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/LeaseMileageTracker/platforms/android/build/intermediates/pre-dexed/F0/debug/support-annotations-26.0.0-alpha1_b5b5bf0481d3fc075c3c53f8a4609cfa37112bb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/LeaseMileageTracker/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/LeaseMileageTracker/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-animated-vector-drawable-26.0.0-alpha1_731b5439499c8285d0b035d4bacb57ecc2a8b7d7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/LeaseMileageTracker/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/LeaseMileageTracker/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-recyclerview-v7-26.0.0-alpha1_49f111d106cf35ef6f923c063e500827cb625b65.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/LeaseMileageTracker/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/LeaseMileageTracker/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-vector-drawable-26.0.0-alpha1_f2bc7f6f06248e510f8c356ded866c8273be71e5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/LeaseMileageTracker/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/LeaseMileageTracker/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-ui-26.0.0-alpha1_8b03a093d1b404bf97ae6efd854867488be73acc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/LeaseMileageTracker/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/LeaseMileageTracker/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-fragment-26.0.0-alpha1_a6196ca8862402f9b64e4beb614fd1396b413544.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/LeaseMileageTracker/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/LeaseMileageTracker/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-transition-26.0.0-alpha1_a55ab9448eb0451c462d426c7caef147e2b3f6cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/LeaseMileageTracker/platforms/android/build/intermediates/exploded-aar/LeaseMileageTracker/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="eb6078500d1af5e7b663871706674405c57292a3">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/LeaseMileageTracker/platforms/android/build/intermediates/pre-dexed/F0/debug/LeaseMileageTracker-runtime-unspecified_4a779889ba964bda3e2c215caf53249f50ec0671.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/LeaseMileageTracker/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/LeaseMileageTracker/platforms/android/build/intermediates/pre-dexed/F0/debug/intermediates-exploded-aar-widgets-release_64d1df8a93eb239b91934f7b78f4060383d43844.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/LeaseMileageTracker/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/LeaseMileageTracker/platforms/android/build/intermediates/pre-dexed/F0/debug/com.android.support-support-core-utils-26.0.0-alpha1_6a374822bdbc12566220d56a4c65272057bed832.jar" />
+    </item>
+
+</items>

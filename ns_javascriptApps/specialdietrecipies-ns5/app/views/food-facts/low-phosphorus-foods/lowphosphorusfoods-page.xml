@@ -1,0 +1,19 @@
+<Page loaded="pageLoaded" class="page" xmlns="http://www.nativescript.org/tns.xsd">
+	<ActionBar title="Lowphosphorusfoods" class="action-bar">
+	</ActionBar>
+
+	<ScrollView>
+		<StackLayout class="home-panel">
+			<!--Add your page content here-->
+			<GridLayout columns="50, auto, *" rows="50, auto, *" width="210" height="210" style.backgroundColor="lightgray">
+				<Label text="Label 1" row="0" col="0" backgroundColor="red" />
+				<Label text="Label 2" row="0" col="1" colSpan="2" backgroundColor="green" />
+				<Label text="Label 3" row="1" col="0" rowSpan="2" backgroundColor="blue" />
+				<Label text="Label 4" row="1" col="1" backgroundColor="yellow" />
+				<Label text="Label 5" row="1" col="2" backgroundColor="orange" />
+				<Label text="Label 6" row="2" col="1" backgroundColor="pink" />
+				<Label text="Label 7" row="2" col="2" backgroundColor="purple" />
+			</GridLayout>
+		</StackLayout>
+	</ScrollView>
+</Page>

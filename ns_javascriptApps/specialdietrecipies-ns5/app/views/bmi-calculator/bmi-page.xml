@@ -1,0 +1,11 @@
+<Page loaded="pageLoaded" class="page" xmlns="http://www.nativescript.org/tns.xsd">
+	<ActionBar title="BMI Calculator" class="action-bar-bmi">
+	</ActionBar>
+
+	<ScrollView>
+		<StackLayout class="home-panel">
+			
+			<!--Add your page content here-->
+		</StackLayout>
+	</ScrollView>
+</Page>

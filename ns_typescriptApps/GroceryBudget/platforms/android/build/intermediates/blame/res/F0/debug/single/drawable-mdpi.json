@@ -1,0 +1,66 @@
+[
+    {
+        "merged": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/GroceryBudget/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/pear.png",
+        "source": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/GroceryBudget/platforms/android/src/main/res/drawable-mdpi/pear.png"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/GroceryBudget/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/selected.png",
+        "source": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/GroceryBudget/platforms/android/src/main/res/drawable-mdpi/selected.png"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/GroceryBudget/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/checked_white.png",
+        "source": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/GroceryBudget/platforms/android/src/main/res/drawable-mdpi/checked_white.png"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/GroceryBudget/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/apple.png",
+        "source": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/GroceryBudget/platforms/android/src/main/res/drawable-mdpi/apple.png"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/GroceryBudget/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/menu.png",
+        "source": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/GroceryBudget/platforms/android/src/main/res/drawable-mdpi/menu.png"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/GroceryBudget/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/checked.png",
+        "source": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/GroceryBudget/platforms/android/src/main/res/drawable-mdpi/checked.png"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/GroceryBudget/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/delete.png",
+        "source": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/GroceryBudget/platforms/android/src/main/res/drawable-mdpi/delete.png"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/GroceryBudget/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/recent.png",
+        "source": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/GroceryBudget/platforms/android/src/main/res/drawable-mdpi/recent.png"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/GroceryBudget/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/unchecked.png",
+        "source": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/GroceryBudget/platforms/android/src/main/res/drawable-mdpi/unchecked.png"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/GroceryBudget/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/logo_signup.png",
+        "source": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/GroceryBudget/platforms/android/src/main/res/drawable-mdpi/logo_signup.png"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/GroceryBudget/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/nonselected.png",
+        "source": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/GroceryBudget/platforms/android/src/main/res/drawable-mdpi/nonselected.png"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/GroceryBudget/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/banana.png",
+        "source": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/GroceryBudget/platforms/android/src/main/res/drawable-mdpi/banana.png"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/GroceryBudget/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/add.png",
+        "source": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/GroceryBudget/platforms/android/src/main/res/drawable-mdpi/add.png"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/GroceryBudget/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/logo_login.png",
+        "source": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/GroceryBudget/platforms/android/src/main/res/drawable-mdpi/logo_login.png"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/GroceryBudget/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/icon.png",
+        "source": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/GroceryBudget/platforms/android/src/main/res/drawable-mdpi/icon.png"
+    },
+    {
+        "merged": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/GroceryBudget/platforms/android/build/intermediates/res/merged/F0/debug/drawable-mdpi/unchecked_white.png",
+        "source": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/GroceryBudget/platforms/android/src/main/res/drawable-mdpi/unchecked_white.png"
+    }
+]

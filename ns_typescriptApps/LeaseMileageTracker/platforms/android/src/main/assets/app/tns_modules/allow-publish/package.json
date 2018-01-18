@@ -1,0 +1,77 @@
+{
+  "_args": [
+    [
+      "allow-publish@^1.0.4",
+      "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/LeaseMileageTracker/node_modules/tns-template-hello-world-ng"
+    ]
+  ],
+  "_from": "allow-publish@>=1.0.4 <2.0.0",
+  "_id": "allow-publish@1.0.4",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/allow-publish",
+  "_nodeVersion": "6.5.0",
+  "_npmOperationalInternal": {
+    "host": "packages-18-east.internal.npmjs.com",
+    "tmp": "tmp/allow-publish-1.0.4.tgz_1477656540845_0.4723889473825693"
+  },
+  "_npmUser": {
+    "email": "hristo@deshev.com",
+    "name": "hdeshev"
+  },
+  "_npmVersion": "3.10.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "allow-publish",
+    "raw": "allow-publish@^1.0.4",
+    "rawSpec": "^1.0.4",
+    "scope": null,
+    "spec": ">=1.0.4 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/tns-template-hello-world-ng"
+  ],
+  "_resolved": "https://registry.npmjs.org/allow-publish/-/allow-publish-1.0.4.tgz",
+  "_shasum": "0fa3da60a571df43badeb5dbaaf795600c9bd0fe",
+  "_shrinkwrap": null,
+  "_spec": "allow-publish@^1.0.4",
+  "_where": "/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/LeaseMileageTracker/node_modules/tns-template-hello-world-ng",
+  "author": {
+    "name": "Hristo Deshev"
+  },
+  "bin": {
+    "allow-publish": "index.js",
+    "remove-prepublish": "remove-prepublish.js"
+  },
+  "bugs": {
+    "url": "https://github.com/hdeshev/allow-publish/issues"
+  },
+  "dependencies": {},
+  "description": "Flip the private option in package.json and make the package publishable.",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "0fa3da60a571df43badeb5dbaaf795600c9bd0fe",
+    "tarball": "https://registry.npmjs.org/allow-publish/-/allow-publish-1.0.4.tgz"
+  },
+  "gitHead": "6d267a6345d6febaa11279d7c6009d178f6114c8",
+  "homepage": "https://github.com/hdeshev/allow-publish#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "email": "hristo@deshev.com",
+      "name": "hdeshev"
+    }
+  ],
+  "name": "allow-publish",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hdeshev/allow-publish.git"
+  },
+  "scripts": {},
+  "version": "1.0.4"
+}

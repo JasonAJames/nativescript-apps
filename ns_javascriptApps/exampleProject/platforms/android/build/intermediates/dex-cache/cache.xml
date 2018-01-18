@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/exampleProject/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/exampleProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-core-ui-26.0.0-alpha1_2fcf5af708a6c00f6fe21f90bbd0fcf179a4c874.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/exampleProject/platforms/android/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/exampleProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-vector-drawable-26.0.0-alpha1_65bc721fcab49258ae3ffc54ede026853993aa86.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/exampleProject/platforms/android/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/exampleProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-compat-26.0.0-alpha1_1a068c74e57b709d04a83ab0900ec65f6ab469b3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/exampleProject/platforms/android/build/intermediates/exploded-aar/widgets-release/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="dd431d6aa9ce9dc0d429fcd239d412a82ea0e9a7">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/exampleProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/intermediates-exploded-aar-widgets-release_9b188ccdbff7d18754155e294b25a7cb4702b382.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/exampleProject/platforms/android/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/exampleProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-fragment-26.0.0-alpha1_1fed22fc0c28f92bd37a66ffd7e1b9bdcf6282cf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/exampleProject/platforms/android/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/exampleProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-v4-26.0.0-alpha1_a6e81823cb5bda2dff081a32782ff396f4d54e54.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/exampleProject/platforms/android/build/intermediates/exploded-aar/exampleProject/runtime/unspecified/jars/libs/binding-generator.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="a3e74f5f1ebe12c7cfa6591158ef298c95a5275f">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/exampleProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/binding-generator_75664fde1821407407c413187a829a2a02f81c97.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/exampleProject/platforms/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/exampleProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-appcompat-v7-26.0.0-alpha1_c61178b6092b8938e62d23bf381d214cfc65ad08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/exampleProject/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/11.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="49743d94bd8f62b64049c3e3065c18598ce2ca7f">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/exampleProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.android.gms-play-services-tasks-11.4.0_e4cbc1c0b11e97aef4cf547d781540bb35fb94a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/jasonjames/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/exampleProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/support-annotations-26.0.0-alpha1_b5b5bf0481d3fc075c3c53f8a4609cfa37112bb7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/exampleProject/platforms/android/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/exampleProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-recyclerview-v7-26.0.0-alpha1_7b99cc6717e58dd1514613298d90f875f152b27d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/exampleProject/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/11.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="8f34896233f3fe6ecb75025e06b33980cee8239a">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/exampleProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.android.gms-play-services-base-11.4.0_54c5c9a4d35cf2820ecc5d7f09e169d73298904e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/exampleProject/platforms/android/build/intermediates/exploded-aar/com.android.support/transition/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/exampleProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-transition-26.0.0-alpha1_3c0511c425e6ff49e4e307ae0890561cca287652.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/exampleProject/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/11.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="f32a31f3449f318d8f76b627644a19531285a0d6">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/exampleProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.android.gms-play-services-location-11.4.0_c741e2543ccb8f658e1fe0953626dacbfeff50d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/exampleProject/platforms/android/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/11.4.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="453427e529ccd47ef859c7d739a59ab32f7f14ee">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/exampleProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.google.android.gms-play-services-basement-11.4.0_5a975e173d90fd91711423b03afc6b777083cd36.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/exampleProject/platforms/android/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/exampleProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-design-26.0.0-alpha1_5aac1784e6e4e24eb4487d2016992ce6e159eaa2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/exampleProject/platforms/android/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/exampleProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-animated-vector-drawable-26.0.0-alpha1_4b57482d3de935d913bf5c4dd786259893357b7a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/exampleProject/platforms/android/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/exampleProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-core-utils-26.0.0-alpha1_f23e9bb9e13db8e7d862739b1218a79d5f90d5e6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/exampleProject/platforms/android/build/intermediates/exploded-aar/exampleProject/runtime/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="eb6078500d1af5e7b663871706674405c57292a3">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/exampleProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/exampleProject-runtime-unspecified_4305251d344caa0ce764dae670f5d68cdc60dbf3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/exampleProject/platforms/android/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.0"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Applications/MAMP/htdocs/JPPMsolutions/wp-content/apps/nativescript-apps/exampleProject/platforms/android/build/intermediates/pre-dexed/F0F1/debug/com.android.support-support-media-compat-26.0.0-alpha1_be2e07b69efbbf13b09d473eb8b7343c4f8a6c5a.jar" />
+    </item>
+
+</items>
